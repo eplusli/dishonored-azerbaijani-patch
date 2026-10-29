@@ -1,0 +1,6 @@
+/work/
+/outputs/
+/release/
+__pycache__/
+*.pyc
+*.tmp
